@@ -1,0 +1,340 @@
+[
+  {
+    "Name": "Dr.Nalin D. Gunarathne",
+    "Diesease": "Hypothyroidism",
+    "Hospitals": "Asiri Medical Hospital colombo 6",
+    "Specialization" : "Endocrinologist"
+  },
+  {
+    "Name": "Dr.Manilka Sumanatilleke",
+    "Diesease": "Hypothyroidism",
+    "Hospitals": "Durdans hospital colombo 3",
+    "Specialization" : "Endocrinologist"
+  },
+  {
+    "Name": "Prof.Prasad katulanda",
+    "Diesease": "Hypothyroidism",
+    "Hospitals": "Lanka hospital colombo 5",
+    "Specialization" : "Endocrinologist"
+  },
+  {
+    "Name": "Prof.J.M.Chandima Jeewandara",
+    "Diesease": "Allergy",
+    "Hospitals": "Ninewells hospital;Nawaloka hospital",
+    "Specialization" : "Allergist"
+  },
+  {
+    "Name": "Dr. Amith Amarasinghe",
+    "Diesease": "Allergy",
+    "Hospitals": "Lanka Hospital",
+    "Specialization" : "Allergist"
+  },
+  {
+    "Name": "Dr. Rajiva DE Silva",
+    "Diesease": "Allergy",
+    "Hospitals": "Asiri Medical Hospital colombo 6",
+    "Specialization" : "Allergist"
+  },
+  {
+    "Name": "Dr.(Ms.) Amitha Nelumdeniya",
+    "Diesease": "Psoriasis",
+    "Hospitals": "Durdans hospital-colombo 03;Asiri Medical Hospital colombo 10;Body Doc Medice malabe",
+    "Specialization" : "Dermatologist"
+  },
+  {
+    "Name": "Dr.(Mrs.) Dananja Ariyawansa",
+    "Diesease": "Psoriasis",
+    "Hospitals": "Asia Hospital Maharagama",
+    "Specialization" : "Dermatologist"
+  },
+  {
+    "Name": "Dr.Janaka Akarawita",
+    "Diesease": "Psoriasis",
+    "Hospitals": "CDEM Hospital colombo 10",
+    "Specialization" : "Dermatologist"
+  },
+  {
+    "Name": "Dr. Chamilka Kumara Ranawaka",
+    "Diesease": "GERD",
+    "Hospitals": "Hemas Hospital wattala",
+    "Specialization" : "Gastroenterologist"
+  },
+  {
+    "Name": "Dr. Hasitha WIjewantha",
+    "Diesease": "GERD",
+    "Hospitals": "Lanka Hospital colombo 5",
+    "Specialization" : "Gastroenterologist"
+  },
+  {
+    "Name": "Dr. Tilan Aponso",
+    "Diesease": "GERD",
+    "Hospitals": "Royal Hospital colombo 6",
+    "Specialization" : "Gastroenterologist"
+  },
+  {
+    "Name": "Dr. Isurujith Liyanage",
+    "Diesease": "Chronic Cholestatic",
+    "Hospitals": "Asia Hospital maharagama",
+    "Specialization" : "Gastroenterologist"
+  },
+  {
+    "Name": "Prof.Madunil NIriella",
+    "Diesease": "Chronic Cholestatic",
+    "Hospitals": "Leesons hospital;Hemas hospital wattala",
+    "Specialization" : "Gastroenterologist"
+  },
+  {
+    "Name": "Dr. T.G.Amal Priyantha",
+    "Diesease": "Chronic Cholestatic",
+    "Hospitals": "Suwasevana hospital",
+    "Specialization" : "Gastroenterologist"
+  },
+  {
+    "Name": "Dr. Aloka Gunawardana",
+    "Diesease": "Osteoarthritis",
+    "Hospitals": "Asia Hospital maharagama",
+    "Specialization" : "Rheumatologist"
+  },
+  {
+    "Name": "Dr.Jayathri Pagoda",
+    "Diesease": "Osteoarthritis",
+    "Hospitals": "Western Hospital colombo 08",
+    "Specialization" : "Rheumatologist"
+  },
+  {
+    "Name": "Dr. Rajananthini Thambippilai",
+    "Diesease": "Osteoarthritis",
+    "Hospitals": "Park Hospital colombo 05",
+    "Specialization" : "Rheumatologist"
+  },
+  {
+    "Name": "Dr. MIlhan Bahar",
+    "Diesease": "Benign positional vertigo",
+    "Hospitals": "Asia Hospital;Lanka Hospital",
+    "Specialization" : "Neurologist"
+  },
+  {
+    "Name": "Dr.Dharshika Tennekoon",
+    "Diesease": "Benign positional vertigo",
+    "Hospitals": "Asia hospital;Asiri Medical Hospital colombo 5",
+    "Specialization" : "Neurologist"
+  },
+  {
+    "Name": "Dr. Sanath Perera",
+    "Diesease": "Benign positional vertigo",
+    "Hospitals": "Lanka hospital",
+    "Specialization": "Neurologist"
+  },
+  {
+    "Name": "Dr. Gawri Rathnayake",
+    "Diesease": "Hypoglycemia",
+    "Hospitals": "Asia Hospital",
+    "Specialization": "Endocrinologist"
+  },
+  {
+    "Name": "Dr.Sachith Abhayarathna",
+    "Diesease": "Hypoglycemia",
+    "Hospitals": "Hemas wattala",
+    "Specialization": "Endocrinologist"
+  },
+  {
+    "Name": "Dr. Maheshi Amarawardena",
+    "Diesease": "Hypoglycemia",
+    "Hospitals": "Kanola Anuradapura",
+    "Specialization": "Endocrinologist"
+  },
+  {
+    "Name": "Dr.Asoka Kamaladasa",
+    "Diesease": "Acne",
+    "Hospitals": "Suwasiri Skin Clinic",
+    "Specialization": "Dermatologist"
+  },
+  {
+    "Name": "Dr.D.M.Hewagea",
+    "Diesease": "Acne",
+    "Hospitals": "Body doc Medicare",
+    "Specialization": "Dermatologist"
+  },
+  {
+    "Name": "Dr.Saman Gunasekara",
+    "Diesease": "Acne",
+    "Hospitals": "Kings Hospital",
+    "Specialization": "Dermatologist"
+  },
+  {
+    "Name": "Dr. Isurujith Liyanage",
+    "Diesease": "Hepatitis A",
+    "Hospitals": "Asia Hospital Maharagama;CDEM hospital",
+    "Specialization": "Hepatologist"
+  },
+  {
+    "Name": "Dr. Tilan Aponso",
+    "Diesease": "Hepatitis A",
+    "Hospitals": "Healan hospital",
+    "Specialization": "Gastroenterologist"
+  },
+  {
+    "Name": "Dr. Upali Weragama",
+    "Diesease": "Hepatitis A",
+    "Hospitals": "Ninewells hospital",
+    "Specialization": "Gastroenterologist"
+  },
+  {
+    "Name": "Dr. Isurujith Liyanage",
+    "Diesease": "Hepatitis C",
+    "Hospitals": "Asia Hospital Maharagama;CDEM hospital",
+    "Specialization": "Hepatologist"
+  },
+  {
+    "Name": "Dr. Tilan Aponso",
+    "Diesease": "Hepatitis C",
+    "Hospitals": "Healan hospital",
+    "Specialization": "Gastroenterologist"
+  },
+  {
+    "Name": "Dr. Upali Weragama",
+    "Diesease": "Hepatitis C",
+    "Hospitals": "Ninewells hospital",
+    "Specialization": "Gastroenterologist"
+  },
+  {
+    "Name": "Dr. Isurujith Liyanage",
+    "Diesease": "Hepatitis D",
+    "Hospitals": "Asia Hospital Maharagama;CDEM hospital",
+    "Specialization": "Hepatologist"
+  },
+  {
+    "Name": "Dr. Tilan Aponso",
+    "Diesease": "Hepatitis D",
+    "Hospitals": "Healan hospital",
+    "Specialization": "Gastroenterologist"
+  },
+  {
+    "Name": "Dr. Upali Weragama",
+    "Diesease": "Hepatitis D",
+    "Hospitals": "Ninewells hospital",
+    "Specialization": "Gastroenterologist"
+  },
+  {
+    "Name": "Dr. Isurujith Liyanage",
+    "Diesease": "Hepatitis E",
+    "Hospitals": "Asia Hospital Maharagama;CDEM hospital",
+    "Specialization": "Hepatologist"
+  },
+  {
+    "Name": "Dr. Tilan Aponso",
+    "Diesease": "Hepatitis E",
+    "Hospitals": "Healan hospital",
+    "Specialization": "Gastroenterologist"
+  },
+  {
+    "Name": "Dr. Upali Weragama",
+    "Diesease": "Hepatitis E",
+    "Hospitals": "Ninewells hospital",
+    "Specialization": "Gastroenterologist"
+  },
+  {
+    "Name": "Dr. A.T.Alibhoy",
+    "Diesease": "Migraine",
+    "Hospitals": "Asiri medical hospital colombo 5;hemas hospital wattala",
+    "Specialization": "Neurologist"
+  },
+  {
+    "Name": "Dr. Manjula Caldera",
+    "Diesease": "Migraine",
+    "Hospitals": "Kanola hospitals Anuradhapura",
+    "Specialization": "Neurologist"
+  },
+  {
+    "Name": "Dr. T. Thivakaran",
+    "Diesease": "Migraine",
+    "Hospitals": "Nawaloka Hospital colombo 2",
+    "Specialization": "Neurologist"
+  },
+  {
+    "Name": "Dr. Prof.J.M Chandima Jeewandara",
+    "Diesease": "Bronchial Asthma",
+    "Hospitals": "Asiri Medical hospital - colombo 05",
+    "Specialization": "Pulmonologist"
+  },
+  {
+    "Name": "Dr. Prof.Suranjith Senevirathna",
+    "Diesease": "Bronchial Asthma",
+    "Hospitals": "Blue cross medical centre",
+    "Specialization": "Pulmonologist"
+  },
+  {
+    "Name": "Dr. Rajiva de silva",
+    "Diesease": "Bronchial Asthma",
+    "Hospitals": "Durdans hospital",
+    "Specialization": "Pulmonologist"
+  },
+  {
+    "Name": "Dr. Isurujith Liyanage",
+    "Diesease": "Alcoholic hepatitis",
+    "Hospitals": "Asia Hospital Maharagama;CDEM hospital",
+    "Specialization": "Hepatologist"
+  },
+  {
+    "Name": "Dr. Tilan Aponso",
+    "Diesease": "Alcoholic hepatitis",
+    "Hospitals": "Healan hospital",
+    "Specialization": "Gastroenterologist"
+  },
+  {
+    "Name": "Dr. Hasitha Tissera",
+    "Diesease": "Dengue",
+    "Hospitals": "Royal Hospital colombo 6",
+    "Specialization": "Infectious Disease Specialist"
+  },
+  {
+    "Name": "Dr. Ananda Wijewickrama",
+    "Diesease": "Dengue",
+    "Hospitals": "Royal Hospital colombo 6",
+    "Specialization": "Infectious Disease Specialist"
+  },
+  {
+    "Name": "Dr. Nayana P. Gunathilaka",
+    "Diesease": "Dengue",
+    "Hospitals": "Royal Hospital colombo 6",
+    "Specialization": "Infectious Disease Specialist"
+  },
+  {
+    "Name":  "Dr.Chandrike Ponnamperuma",
+    "Diesease": "Heart Attack",
+    "Hospitals": "Asiri Central Hospital colombo 10",
+    "Specialization": "Cardiologist"
+  },
+  {
+    "Name": "Dr. Hansantha Ranawaka",
+    "Diesease":  "Heart Attack",
+    "Hospitals": "Asiri Central Hospital",
+    "Specialization": "Cardiologist"
+  },
+  {
+    "Name" : "Dr. Vajira Senaratne",
+    "Diesease" : "Heart Attack",
+    "Hospitals": "CDEM Hospital",
+    "Specialization": "Cardiologist"
+  },
+  {
+    "Name" : "Dr. K. Vickneswaran",
+    "Diesease" : "Urinary tract infection",
+    "Hospitals" : "Park Hospital",
+    "Specialization": "Urologist"
+  },
+  {
+    "Name" : "Dr. Manjula Wijewardena",
+    "Diesease" : "Urinary tract infection",
+    "Hospitals": "Royal Hospital colombo 06",
+    "Specialization": "Urologist"
+  },
+  {
+    "Name" : "Dr. Kugadas Sutharshan",
+    "Diesease" : "Urinary tract infection",
+    "Hospitals" : "Royal hospital colombo 06;Vasana Hospital",
+    "Specialization":"Urologist"
+  }
+  
+]
+
